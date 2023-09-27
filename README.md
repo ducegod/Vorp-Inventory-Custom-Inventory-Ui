@@ -1,4 +1,7 @@
 # Vorp-Inventory-Custom-Inventory-Ui
-https://cdn.discordapp.com/attachments/1069755376242790411/1156527440223551509/20230927054658_1.jpg?ex=65154b9c&is=6513fa1c&hm=c9a8eb887b956498d56520c6d304ae37c04c9d381daba5d7edf7e58156600187&
 
-https://cdn.discordapp.com/attachments/1069755376242790411/1156527440223551509/20230927054658_1.jpg?ex=65154b9c&is=6513fa1c&hm=c9a8eb887b956498d56520c6d304ae37c04c9d381daba5d7edf7e58156600187&
+
+
+![20230927104526_1](https://github.com/ducegod/Vorp-Inventory-Custom-Inventory-Ui/assets/33432908/975036d6-31a7-4e85-aa57-24bddfde7e5b)
+
+![20230927104540_1](https://github.com/ducegod/Vorp-Inventory-Custom-Inventory-Ui/assets/33432908/e89cbe75-c189-4921-94c8-c9eb742bb38f)
